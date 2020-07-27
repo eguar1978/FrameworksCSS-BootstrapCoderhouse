@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(228, 207, 200) !important; 
+}
+
 nav{
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(179, 42, 21) 100%);
 }
@@ -38,3 +42,71 @@ nav{
     transform: scale(1.1, 1.1);
 }
 
+.slider{
+    width: 100%;
+}
+
+.separateTopButton{
+    padding: 20px 0;
+}
+
+h2{
+    padding: 15px 0;;
+}
+
+.iconoContenido{
+    color: black;
+    font-size:50px;
+    margin-right: 10px;
+}
+
+div p{
+    text-align: justify;
+}
+
+/* footer */
+
+footer{
+    background: linear-gradient(180deg, rgba(179, 42, 21) 0%, rgb(0, 0, 0,1) 100%);
+    padding: 20px 0;
+}
+
+footer a, footer a:hover{
+    text-decoration: none;
+    color: white;
+    
+}
+
+footer li{
+    list-style: none;
+}
+
+
+.pie{
+    color: white;
+}
+
+.pie ul{
+    margin:0;
+    padding: 0;
+}
+
+.pie i{
+    padding-right: 5px;
+}
+
+/* Formulario */
+
+.btn{
+    justify-content: center;
+    align-content: center;
+}
+
+.btn-info.custom-btn {
+	background: linear-gradient(180deg, rgba(179, 42, 21) 0%, rgb(0, 0, 0,1) 100%);
+    border-color: black;
+}
+
+form{
+    padding-bottom: 20px;
+}
