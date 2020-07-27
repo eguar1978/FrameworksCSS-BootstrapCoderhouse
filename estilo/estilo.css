@@ -38,8 +38,8 @@ nav{
 .bar:hover{
     color: #fff;
     text-transform: uppercase;
-    text-shadow: 2px 2px 2px black, 0.1em 0.1em 0.1em white, 0.3em 0.3em 0.3em white;
-    transform: scale(1.1, 1.1);
+    text-shadow: 2px 2px 2px black, 0.1em 0.1em 0.1em white, 0.2em 0.2em 0.2em white;
+    transform: scale(.98, 1.1);
 }
 
 .slider{
